@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		172D769A257E2E3300A68586 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172D7699257E2E3300A68586 /* AppDelegate.swift */; };
-		172D769C257E2E3300A68586 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 172D769B257E2E3300A68586 /* art.scnassets */; };
 		172D769E257E2E3300A68586 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 172D769D257E2E3300A68586 /* ViewController.swift */; };
 		172D76A1257E2E3300A68586 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 172D769F257E2E3300A68586 /* Main.storyboard */; };
 		172D76A3257E2E3500A68586 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 172D76A2257E2E3500A68586 /* Assets.xcassets */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		172D7696257E2E3300A68586 /* CARP 0.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CARP 0.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		172D7699257E2E3300A68586 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		172D769B257E2E3300A68586 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		172D769D257E2E3300A68586 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		172D76A0257E2E3300A68586 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		172D76A2257E2E3500A68586 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				172D7699257E2E3300A68586 /* AppDelegate.swift */,
-				172D769B257E2E3300A68586 /* art.scnassets */,
 				172D769D257E2E3300A68586 /* ViewController.swift */,
 				172D769F257E2E3300A68586 /* Main.storyboard */,
 				172D76A2257E2E3500A68586 /* Assets.xcassets */,
@@ -231,7 +228,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				172D769C257E2E3300A68586 /* art.scnassets in Resources */,
 				172D76A6257E2E3500A68586 /* LaunchScreen.storyboard in Resources */,
 				172D76A3257E2E3500A68586 /* Assets.xcassets in Resources */,
 				172D76A1257E2E3300A68586 /* Main.storyboard in Resources */,

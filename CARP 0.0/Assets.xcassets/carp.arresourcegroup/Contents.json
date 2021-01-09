@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "book.arreferenceimage"
+    },
+    {
+      "filename" : "choco.arreferenceimage"
+    },
+    {
+      "filename" : "kbbq.arreferenceimage"
+    },
+    {
+      "filename" : "macbookpro-13.arreferenceimage"
+    }
+  ]
+}
